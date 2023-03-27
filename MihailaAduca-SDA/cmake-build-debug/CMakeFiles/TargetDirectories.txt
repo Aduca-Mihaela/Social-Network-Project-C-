@@ -1,0 +1,3 @@
+C:/Users/tinuta.mihaila/Desktop/MihailaAduca-SDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/tinuta.mihaila/Desktop/MihailaAduca-SDA/cmake-build-debug/CMakeFiles/MihailaAduca_SDA.dir
+C:/Users/tinuta.mihaila/Desktop/MihailaAduca-SDA/cmake-build-debug/CMakeFiles/edit_cache.dir
